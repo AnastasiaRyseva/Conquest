@@ -1,0 +1,39 @@
+.footer {
+    background-color: rgba(68, 66, 64, 1);
+    font-family: 'RobotoRegular';
+}
+.footer-container {
+    display: flex;
+    justify-content: center;
+    gap: 11.8rem;
+    padding-top: 7.9rem;
+    flex-wrap: wrap;
+}
+.footer__item {
+    display: flex;
+    flex-direction: column;
+}
+.footer__title--logo {
+    display: flex;
+    align-items: center;
+}
+.footer__logo--text {
+    font-size: 1.4rem;
+    font-weight: 700;
+    font-family: 'Playfair', sans-serif;
+}
+.footer__title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    line-height: 1.6rem;
+    color: rgba(255, 255, 255, 1);
+    text-transform: uppercase;
+    margin-bottom: 3.3rem;
+}
+.footer__text {
+    font-size: 1.2rem;
+    font-weight: 200;
+    line-height: 2.4rem;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 1.5rem;
+}

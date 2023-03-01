@@ -1,0 +1,8 @@
+@import './vars.css';
+@import './global.css';
+@import './components/header.css';
+@import './components/actual-collection.css';
+@import './components/popular-models.css';
+@import './components/slider.css';
+@import './components/contacts.css';
+@import './components/footer.css';
